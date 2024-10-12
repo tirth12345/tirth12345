@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tirth R Chokshi</h1>
 <h3 align="center">👋 Tirth Chokshi: Aspiring Software Developer | AI/ML Enthusiast | Web Developer | Focused on AI models and full-stack apps.</h3>
-<img align='right' alt='coding gif' width='400' sec='https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW'>
+<img align='right' alt='coding gif' width='400' src='https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif'>
 - 🔭 I’m currently working on **Ai-Ml Projects**
 
 - 🌱 I’m currently learning **Data Analysis and Ai-Ml Engineering**
