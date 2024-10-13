@@ -4,7 +4,7 @@
 <img align='right' alt='coding gif' width='400' src='https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif'>
 - 🔭 I’m currently working on **Ai-Ml Projects**
 
-- 🌱 I’m currently learning **Data Analysis and Ai-Ml Engineering**
+- 🌱 I’m currently learning Data Analysis and Ai-Ml Engineering
 
 - 👨‍💻 All of my projects are available at [https://tirth12345.github.io/Tirth-Chokshi-Portfolio/](https://tirth12345.github.io/Tirth-Chokshi-Portfolio/)
 
